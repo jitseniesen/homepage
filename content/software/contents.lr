@@ -1,0 +1,32 @@
+title: Software
+---
+body:
+
+Apologies, downloads are not yet available.
+
+## Spyder
+
+* Over the years, I made numerous contributations to **[Spyder](https://www.spyder-ide.org/)**, The Scientific Python Development Environment. I maintain the [spyder-unittest](https://github.com/spyder-ide/spyder-unittest) and the [spyder-notebook](https://github.com/spyder-ide/spyder-notebook) plugins.
+
+## Exponential integrators
+
+* **expmvp** is the Matlab function described in "A Krylov Subspace Method for Option Pricing". It is an improved version of the `phipm` function.
+   <!--- To install, copy the files <a href="~jitse/expmvp.m">expmvp.m</a> and <a href="~jitse/expmnorm.m">expmnorm.m</a> to a directory where Matlab can find them. --->
+* **phipm** is the Matlab package described in "A Krylov subspace algorithm for evaluating the &phi;-functions appearing in exponential integrators"  by Jitse Niesen and Will Wright.
+   <!--- To install, copy the files <a href="~jitse/phipm.m">phipm.m</a> and <a href="~jitse/expmnorm.m">expmnorm.m</a> to a directory where Matlab can find them. Alternatively, download <a href="~jitse/phipm.tar.gz">phipm.tar.gz</a> (8.4 MB) which contains these files and scripts to reproduce the plots in the paper. --->
+
+## Linear algebra
+
+* I made several contributions to **Eigen**; in particular, I contributed the MatrixFunctions module.  [Eigen](http://eigen.tuxfamily.org/) is a C++ template library for linear algebra: vectors, matrices, and related algorithms. It aims to be versatile, fast, elegant and compiler-friendly. The [MatrixFunctions module](http://eigen.tuxfamily.org/dox-devel//unsupported/group__MatrixFunctions__Module.html) contains a general routine for the computations of analytic matrix functions, with specializations for the sine, cosine, hyperbolic sine, and hyperbolic cosine. The module also implements specific algorithms for the matrix exponential, logarithm and square root. All algorithms are taken from the literature.
+
+
+## Evans functions
+
+* MagnusEvans.nb : Mathematica notebook file for evaluating the Evans function using Magnus integration. Written by Simon Malham.
+* evans_matlab.tar.gz : collection of Matlab scripts for evaluating the Evans function. This archive includes the Fisher problem, the autocatalysis problem (for various parameter values) and the Gray-Scott problem. Methods included are the  fourth-order Magnus and Gauss-Legendre and the classical Runge-Kutta method. Type "help evans" to get an overview of the possibilities.
+* scalar_fig.m : Matlab script for reproducing the plots in the paper "Evaluating the Evans function: Order reduction in numerical methods" by Simon Malham and Jitse Niesen.
+
+
+## Symmetries of differential equations
+
+* `gendefnc` is a routine for computing non-classical symmetries, as described in "On a new procedure for finding nonclassical symmetries" by Nicoleta Bîlă and Jitse Niesen (2004).

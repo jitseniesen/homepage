@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  <img src="jitseniesen.jpeg" alt="Photo of Jitse Niesen"
+       style="float: right;">
+  <h1 class="homepage">{{ this.title }}</h1>
+  <div class="homepage">
+    {{ this.body }}
+  </div>
+{% endblock %}

@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,300italic,400italic,500,500italic">
+<link rel="me" href="https://mathstodon.xyz/@jitseniesen">
+<title>{% block title %}Welcome{% endblock %} — Jitse Niesen</title>
+<body>
+  <nav>
+    <div class="container">
+      <a class="myname {% if this.path == '/' %} active {% endif %}"
+         href="{{ '/'|url }}">Jitse Niesen</a>
+      <ul>
+        {% for href, title in [
+          ['/research', 'Research'],
+          ['/phd', 'PhD supervision'],
+          ['/publications', 'Publications'],
+          ['/software', 'Software'],
+          ['/cv', 'CV']
+        ] %}
+          <li>
+            <a class="{% if this.is_child_of(href) %} active {% endif %}"
+		 href="{{ href|url }}">
+		{{ title }}
+	      </a>
+	    </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+  <div class="page">
+    <div class="container">
+      {% block body %}{% endblock %}
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      &copy; Copyright 2023 by Jitse Niesen.
+    </div>
+  </footer>
+</body>

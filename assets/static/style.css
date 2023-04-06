@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', 'Georgia', 'Times New Roman', serif;
+    font-size: 16px;
+    color: #333;
+}
+
+a {
+    text-decoration: none;  /* remove underline from links */
+}
+
+/* restrict width of container with all text */
+@media (min-width: 1200px) {
+    .container {
+	width: 900px;
+    }
+}
+
+.container {
+    padding: 0 15px;
+    margin: auto;
+}
+
+/* top header of the page */
+
+nav {
+    background-color: #3d3639;
+    min-height: 50px;
+}
+
+nav ul {
+    margin: 0;
+}
+
+nav ul > li {
+    float: left;  /* put links in nav bar next to each other */
+    list-style: none;  /* no bullet points */
+}
+
+nav a {
+    color: #9d9d9d;
+    float: left;
+    padding: 14px 15px;  /* 22px line-height + 2 * 14px padding = 50px height */
+    line-height: 22px;
+}
+
+nav a.active {
+    color: #fff;
+    background-color: #221e20;
+}
+
+nav a.myname {
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+/* The main page */
+
+.page {
+    line-height: 1.75;
+    margin: 30px 0;
+}
+
+.page a:hover {
+    text-decoration: underline;
+}
+
+.page a {
+    color: #77304c;
+}
+
+.page h1 {
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.page h2 {
+    font-size: 33px;
+    font-weight: 100;
+    margin: 25px 0 15px 0;
+}
+
+.page h1, h2, h3 {
+    line-height: 1.1;
+}
+
+/* Add extra spacing between list items, but not at the top. The plus
+   symbol is adjacent sibling selector: only select li elements that
+   are immediately preceded by an li. */
+.page li + li {
+    margin-top: 10px;
+}
+
+h1.homepage {
+    font-size: 70px;
+}
+
+.homepage p {
+	font-size: 25px;
+	margin-bottom: 15px;
+}
+
+/* footer of the page */
+
+footer {
+    background-color: #888;
+    min-height: 50px;
+}
+
+footer .container {
+    padding: 14px 15px;  /* 22px line-height + 2 * 14px padding = 50px height */
+    line-height: 22px;
+    text-align: right;
+}
+
+

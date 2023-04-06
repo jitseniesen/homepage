@@ -1,0 +1,8 @@
+[project]
+name = Jitse Niesen
+excluded_assets = *~
+
+[servers.ghpages]
+name = GitHub Pages
+default = True
+target = ghpages+https://jitseniesen/jitseniesen.github.io
