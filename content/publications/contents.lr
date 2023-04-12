@@ -2,34 +2,139 @@ title: Publications
 ---
 body:
 
+This list of my publications is written by hand.
+You can find automatically generated lists on [my university homepage](https://eps.leeds.ac.uk/maths/staff/4067/dr-jitse-niesen), [my ORCID profile](https://orcid.org/0000-0002-6693-3810) and [my Google Scholar profile](https://scholar.google.com/citations?user=I3L6F0EAAAAJ).
+
+## Peer-reviewed journal articles
+
 * Patrick Wright, Jitse Niesen and Rob Sturman,
   "Rigorous bounds on Lyapunov exponents of linked twist maps,"
-  *Nonlinearity*, vol. 36, nr. 3, pp. 1699–1715, 2023.
-* Kris Smedt, Daniel Ruprecht, Jitse Niesen, Steven Tobias and Joonas Nättilä, "New applications for the Boris Spectral Deferred Correction algorithm for plasma simulations," *Appl. Math. Comput.*, vol. 442, article 127706 (18 pages), 2023.
-* Colin M. Hardy, Philip W. Livermore and Jitse Niesen, "The inherent instability of axisymmetric magnetostrophic dynamo models," *Geophys. Astrophys. Fluid Dyn.*, vol. 116, nr. 5–6, pp. 499–520, 2022.
-* Moataz Alosaimi, Daniel Lesnic and Jitse Niesen, "Determination of the thermo-physical properties of multi-layered biological tissues," *Appl. Math. Model.*, vol. 99, pp. 228–242, 2021.
-* Moataz Alosaimi, Daniel Lesnic and Jitse Niesen, "Identification of the thermo-physical properties of a stratified tissue. Adiabatic hypodermic wall," *Internat. Commun. Heat Mass Transfer*, vol. 126, article 105376 (7 pages), 2021.
-* Moataz Alosaimi, Daniel Lesnic and Jitse Niesen, "Reconstruction of the thermal properties in a wave-type model of bio-heat transfer," *Internat. J. Numer. Methods Heat Fluid Flow*, vol. 30, nr. 12, pp. 5143–5167, 2020.
-* Colin M. Hardy, Philip W. Livermore and Jitse Niesen, "Enhanced magnetic fields within a stratified layer," *Geophys. J. Internat.*, vol. 222, nr. 3. pp. 1686–1703, 2020.
-* Yingzhe Li, Yang He, Yajuan Sun, Jitse Niesen, Hong Qin and Jian Liu, "Solving Vlasov-Maxwell equations by using Hamiltonian splitting," *J. Comput. Phys.*, vol. 396, pp. 381–399, 2019.
-* Shami A. M. Alsallami, Jitse Niesen and Frank W. Nijhoff, "Closed-form modified Hamiltonians for integrable numerical integration schemes," *Nonlinearity*, vol. 31, nr. 11, pp. 5110–5146, 2018.
-* Colin M. Hardy, Philip W. Livermore, Jitse Niesen, Jiawen Luo and Kuan Li, "Three-dimensional solutions for the geostrophic flow in the Earth's core," *Royal Soc. Proc. A*, vol. 474, nr. 2218, article 20180412 (28 pages), 2018.
-* Abeer S. Alnahdi, Jitse Niesen and Alastair M. Rucklidge, "Localized patterns in periodically forced systems: II. Patterns with non-zero wavenumber," *SIAM J. Appl. Dynam. Systems*, vol. 17, nr. 2, pp. 1478–1502, 2018.
-* Abeer S. Alnahdi, Jitse Niesen, Alastair M. Rucklidge and Thomas Wagenknecht, "Localized patterns in periodically forced systems," *SIAM J. Appl. Dynam. Systems*, vol. 13, nr. 3, pp. 1311–1327, 2014.
-* Per Christian Moan and Jitse Niesen, "On an asymptotic method for computing the modified energy for symplectic methods," *Discrete Contin. Dyn. Syst.*, vol. 34, nr. 3, pp. 1105–1120, 2014.
-* Jitse Niesen and Will M. Wright, "Algorithm 919: A Krylov subspace algorithm for evaluating the $\varphi$-functions appearing in exponential integrators," *ACM Trans. Math. Software*, vol. 23. nr. 3, article 22 (19 pages), 2012.
-* Nicoleta Bîlă and Jitse Niesen, "A new class of symmetry reductions for parameter identification problems," *J. Nonlinear Math. Phys.*, vol. 16, nr. 3, pp. 355–371, 2009.
-* Veerle Ledoux, Simon J. A. Malham, Jitse Niesen and Vera Thümmler, "Computing stability of multi-dimensional travelling waves," *SIAM J. Appl. Dynam. Systems*, vol. 8, nr. 1, pp. 480–507, 2009.
-* Per Christian Moan and Jitse Niesen, "Convergence of the Magnus series," *J. Found. of Comp. Math.*, vol. 8, nr. 3, pp. 291–301, 2008.
-* Simon Malham and Jitse Niesen, "Evaluating the Evans function: Order reduction in numerical methods," *Math. Comp.*, vol. 77, nr. 261, pp. 158–178, 2008.
-* Nicoleta Bîlă and Jitse Niesen, "On a new procedure for finding nonclassical symmetries," *J. Symbolic Comput.*, vol. 38, nr. 6, pp. 1523–1533, 2004.
-* Jitse Niesen, "A priori estimates for the global error committed by Runge–Kutta methods for a nonlinear oscillator," *LMS J. Math. Comput.*, vol. 6, pp. 18–28, 2003.
+  *Nonlinearity*, vol. 36, nr. 3, pp. 1699–1715, 2023. <br>
+  DOI [10.1088/1361-6544/acb397](https://doi.org/10.1088/1361-6544/acb397),
+  [White Rose 196140](https://eprints.whiterose.ac.uk/196140/).
+* Kris Smedt, Daniel Ruprecht, Jitse Niesen, Steven Tobias and Joonas Nättilä, 
+  "New applications for the Boris Spectral Deferred Correction algorithm for plasma simulations," 
+  *Appl. Math. Comput.*, vol. 442, article 127706 (18 pages), 2023. <br>
+  DOI [10.1016/j.amc.2022.127706](https://doi.org/10.1016/j.amc.2022.127706),
+  [arXiv:2110.08024](https://arxiv.org/abs/2110.08024),
+  [White Rose 194243](https://eprints.whiterose.ac.uk/194243/).
+* Colin M. Hardy, Philip W. Livermore and Jitse Niesen, 
+  "The inherent instability of axisymmetric magnetostrophic dynamo models," 
+  *Geophys. Astrophys. Fluid Dyn.*, vol. 116, nr. 5–6, pp. 499–520, 2022. <br>
+  DOI [10.1080/03091929.2022.2148666](https://doi.org/10.1080/03091929.2022.2148666),
+  [White Rose 193947](https://eprints.whiterose.ac.uk/193947/).
+* Moataz Alosaimi, Daniel Lesnic and Jitse Niesen, 
+  "Determination of the thermo-physical properties of multi-layered biological tissues," 
+  *Appl. Math. Model.*, vol. 99, pp. 228–242, 2021. <br>
+  DOI [10.1016/j.apm.2021.06.006](https://doi.org/10.1016/j.apm.2021.06.006),
+  [White Rose 175610](https://eprints.whiterose.ac.uk/175610/).
+* Moataz Alosaimi, Daniel Lesnic and Jitse Niesen, 
+  "Identification of the thermo-physical properties of a stratified tissue. Adiabatic hypodermic wall," 
+  *Internat. Commun. Heat Mass Transfer*, vol. 126, article 105376 (7 pages), 2021. <br>
+  DOI [10.1016/j.icheatmasstransfer.2021.105376](https://doi.org/10.1016/j.icheatmasstransfer.2021.105376),
+  [White Rose 177164](https://eprints.whiterose.ac.uk/177164/).
+* Moataz Alosaimi, Daniel Lesnic and Jitse Niesen, 
+  "Reconstruction of the thermal properties in a wave-type model of bio-heat transfer," 
+  *Internat. J. Numer. Methods Heat Fluid Flow*, vol. 30, nr. 12, pp. 5143–5167, 2020. <br>
+  DOI [10.1108/HFF-10-2019-0776](https://doi.org/10.1108/HFF-10-2019-0776),
+  [White Rose 158505](https://eprints.whiterose.ac.uk/158505/).
+* Colin M. Hardy, Philip W. Livermore and Jitse Niesen, 
+  "Enhanced magnetic fields within a stratified layer," 
+  *Geophys. J. Internat.*, vol. 222, nr. 3. pp. 1686–1703, 2020. <br>
+  DOI [10.1093/gji/ggaa260](https://doi.org/10.1093/gji/ggaa260),
+  [arXiv:1912.02213](https://arxiv.org/abs/1912.02213),
+  [White Rose 162453](https://eprints.whiterose.ac.uk/162453/).
+* Yingzhe Li, Yang He, Yajuan Sun, Jitse Niesen, Hong Qin and Jian Liu, 
+  "Solving Vlasov-Maxwell equations by using Hamiltonian splitting," 
+  *J. Comput. Phys.*, vol. 396, pp. 381–399, 2019. <br>
+  DOI [10.1016/j.jcp.2019.06.070](https://doi.org/10.1016/j.jcp.2019.06.070),
+  [White Rose 148180](https://eprints.whiterose.ac.uk/148180/).
+* Shami A. M. Alsallami, Jitse Niesen and Frank W. Nijhoff, 
+  "Closed-form modified Hamiltonians for integrable numerical integration schemes," 
+  *Nonlinearity*, vol. 31, nr. 11, pp. 5110–5146, 2018. <br>
+  DOI [10.1088/1361-6544/aad9ac](https://doi.org/10.1088/1361-6544/aad9ac),
+  [arXiv:1707.08112](https://arxiv.org/abs/1707.08112),
+  [White Rose 134550](https://eprints.whiterose.ac.uk/134550/).
+* Colin M. Hardy, Philip W. Livermore, Jitse Niesen, Jiawen Luo and Kuan Li, 
+  "Three-dimensional solutions for the geostrophic flow in the Earth's core," 
+  *Royal Soc. Proc. A*, vol. 474, nr. 2218, article 20180412 (28 pages), 2018. <br>
+  DOI [10.1098/rspa.2018.0412](https://doi.org/10.1098/rspa.2018.0412),
+  [arXiv:1806.06612](https://arxiv.org/abs/1806.06612),
+  [White Rose 135243](https://eprints.whiterose.ac.uk/135243/).
+* Abeer S. Alnahdi, Jitse Niesen and Alastair M. Rucklidge, 
+  "Localized patterns in periodically forced systems: II. Patterns with non-zero wavenumber," 
+  *SIAM J. Appl. Dynam. Systems*, vol. 17, nr. 2, pp. 1478–1502, 2018. <br>
+  DOI [10.1137/17M1162330](https://doi.org/10.1137/17M1162330),
+  [arXiv:1712.07573](https://arxiv.org/abs/1712.07573),
+  [White Rose 129439](https://eprints.whiterose.ac.uk/129439/).
+* Abeer S. Alnahdi, Jitse Niesen, Alastair M. Rucklidge and Thomas Wagenknecht, 
+  "Localized patterns in periodically forced systems," 
+  *SIAM J. Appl. Dynam. Systems*, vol. 13, nr. 3, pp. 1311–1327, 2014. <br>
+  DOI [10.1137/130948495](https://doi.org/10.1137/130948495),
+  [arXiv:1312.2773](https://arxiv.org/abs/1312.2773),
+  [White Rose 77842](https://eprints.whiterose.ac.uk/77842/).
+* Per Christian Moan and Jitse Niesen, 
+  "On an asymptotic method for computing the modified energy for symplectic methods," 
+  *Discrete Contin. Dyn. Syst.*, vol. 34, nr. 3, pp. 1105–1120, 2014. <br>
+  DOI [10.3934/dcds.2014.34.1105](https://doi.org/10.3934/dcds.2014.34.1105),
+  [arXiv:1304.0673](https://arxiv.org/abs/1304.0673),
+  [White Rose 83359](https://eprints.whiterose.ac.uk/83359/).
+* Jitse Niesen and Will M. Wright, 
+  "Algorithm 919: A Krylov subspace algorithm for evaluating the &phi;-functions appearing in exponential integrators," 
+  *ACM Trans. Math. Software*, vol. 23. nr. 3, article 22 (19 pages), 2012. <br>
+  DOI [10.1145/2168773.2168781](https://doi.org/10.1145/2168773.2168781),
+  [arXiv:0907.4631](https://arxiv.org/abs/0907.4631).
+* Nicoleta Bîlă and Jitse Niesen, 
+  "A new class of symmetry reductions for parameter identification problems," 
+  *J. Nonlinear Math. Phys.*, vol. 16, nr. 3, pp. 355–371, 2009. <br>
+  DOI [10.1142/S1402925109000273](https://doi.org/10.1142/S1402925109000273),
+  [arXiv:0807.1462](https://arxiv.org/abs/0807.1462).
+* Veerle Ledoux, Simon J. A. Malham, Jitse Niesen and Vera Thümmler, 
+  "Computing stability of multi-dimensional travelling waves," 
+  *SIAM J. Appl. Dynam. Systems*, vol. 8, nr. 1, pp. 480–507, 2009. <br>
+  DOI [10.1137/080724009](https://doi.org/10.1137/080724009),
+  [arXiv:0805.1706](https://arxiv.org/abs/0805.1706).
+* Per Christian Moan and Jitse Niesen, 
+  "Convergence of the Magnus series," 
+  *J. Found. of Comp. Math.*, vol. 8, nr. 3, pp. 291–301, 2008. <br>
+  DOI [10.1007/s10208-007-9010-0](https://doi.org/10.1007/s10208-007-9010-0).
+  [arXiv:math/0609198](https://arxiv.org/abs/math/0609198).
+* Simon Malham and Jitse Niesen, 
+  "Evaluating the Evans function: Order reduction in numerical methods," 
+  *Math. Comp.*, vol. 77, nr. 261, pp. 158–178, 2008. <br>
+  DOI [10.1090/S0025-5718-07-02016-9](https://doi.org/10.1090/S0025-5718-07-02016-9),
+  [arXiv:math/0605581](https://arxiv.org/abs/math/0605581). 
+* Nicoleta Bîlă and Jitse Niesen, 
+  "On a new procedure for finding nonclassical symmetries," 
+  *J. Symbolic Comput.*, vol. 38, nr. 6, pp. 1523–1533, 2004. <br>
+  DOI [10.1016/j.jsc.2004.07.001](https://doi.org/10.1016/j.jsc.2004.07.001).
+* Jitse Niesen, 
+  "A priori estimates for the global error committed by Runge–Kutta methods for a nonlinear oscillator," 
+  *LMS J. Math. Comput.*, vol. 6, pp. 18–28, 2003. <br>
+  DOI [10.1112/S1461157000000358](https://doi.org/10.1112/S1461157000000358),
+  [arXiv:math/0108181](https://arxiv.org/abs/math/0108181). 
 
 ## Proceedings, reports and theses
 
-* Yingzhe Li, Yang He, Yajuan Sun, Jitse Niesen, Hong Qin and Jian Liu, "Solving Vlasov-Maxwell equations by using Hamiltonian splitting," *Proc. ICNAAM 2016*, AIP Conference Proceedings, vol. 1863, 160009 (4 pages), 2017.
-* Jitse Niesen and Will M. Wright, "Krylov subspace method for pricing options, " Report SSRN 1799124, 22 pages, 2011.
-* Jitse Niesen, "On the global error committed when evaluating the Evans function numerically," Technical report HWM 06-43, Dept of Mathematics, Heriot–Watt University. 22 pages, 2006.
-* Jitse Niesen, "On the Global Error of Discretization Methods for Ordinary Differential Equations," PhD thesis, University of Cambridge, 2004. 
-* Jitse Niesen, "Automatic Generation and Differentiation of Partial Differential Equation Solvers with Index-Free Scripts," Master's thesis, Dept of Computer Science, University of Twente, the Netherlands, 1999. 
-* Jitse Niesen, "The Generalized WDVV-System," Master's thesis, Dept of Applied Mathematics, University of Twente, the Netherlands, 1998. 
+* Yingzhe Li, Yang He, Yajuan Sun, Jitse Niesen, Hong Qin and Jian Liu, 
+  "Solving Vlasov-Maxwell equations by using Hamiltonian splitting," 
+  *Proc. ICNAAM 2016*, AIP Conference Proceedings, vol. 1863, 160009 (4 pages), 2017. <br>
+  DOI [10.1063/1.4992343](https://doi.org/10.1063/1.4992343),
+  [White Rose 120254](https://eprints.whiterose.ac.uk/120254/).
+* Jitse Niesen and Will M. Wright, 
+  "Krylov subspace method for pricing options," 
+  Report SSRN 1799124, 22 pages, 2011. <br>
+  DOI [10.2139/ssrn.1799124](https://doi.org/10.2139/ssrn.1799124).
+* Jitse Niesen, 
+  "On the global error committed when evaluating the Evans function numerically," 
+  Technical report HWM 06-43, Dept of Mathematics, Heriot–Watt University. 22 pages, 2006. <br>
+  [arXiv:math/0611855](https://arxiv.org/abs/math/0611855). 
+* Jitse Niesen, 
+  "On the Global Error of Discretization Methods for Ordinary Differential Equations," 
+  PhD thesis, University of Cambridge, 2004.
+* Jitse Niesen, 
+  "Automatic Generation and Differentiation of Partial Differential Equation Solvers with Index-Free Scripts," 
+  Master's thesis, Dept of Computer Science, University of Twente, the Netherlands, 1999. 
+* Jitse Niesen, 
+  "The Generalized WDVV-System," 
+  Master's thesis, Dept of Applied Mathematics, University of Twente, the Netherlands, 1998.
